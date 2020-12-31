@@ -1,0 +1,22 @@
+chrome.exe --disable-web-security --disable-gpu --user-data-dir=~/chromeTemp 
+npm install -g yarn 
+yarn install
+yarn start
+
+IP Categorization of Sprint
+
+WirelessUpdateSubscriber
+WirelessAddLine 
+EquipmentChargesandPayment 
+DeviceShipment 
+WirelessCommonRootOrderItems
+
+remove the search bars on login page
+use the correct jwt token or maybe as config param
+pi switch environments
+step time css mismatch
+show filter bar everytime
+
+WorkflowManager
+HandleOrder
+LiteOrchestrator
